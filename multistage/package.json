@@ -1,0 +1,12 @@
+{
+  "name": "simple-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "parcel build src/index.js --dist-dir dist --public-url ./"
+  },
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
+
