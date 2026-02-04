@@ -36,6 +36,6 @@ jobs:
           push: true
           platforms: linux/amd64,linux/arm64
           tags: |
-            your-username/my-app:latest
-            your-username/my-app:${{ github.sha }}
+            yelopukki/my-app:latest
+            yelopukki/my-app:${{ github.sha }}
 
