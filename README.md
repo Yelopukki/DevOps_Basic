@@ -1,2 +1,2 @@
-# Модуль 8: CI/CD (Сборка и публикация Docker-образов)
-Цель модуля: "Докрутить" CI-пайплайн: научить GitHub Actions собирать Dockerfile и "пушить" (push) готовый образ в Registry (e.g., Docker Hub, GHCR).
+# Модуль 7: CI/CD Основы (GitHub Actions / GitLab CI)
+Цель модуля: Понять концепцию CI/CD (Автоматизация) и настроить первый пайплайн для тестирования кода (Linting, Unit Tests).
