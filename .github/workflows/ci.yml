@@ -3,7 +3,7 @@ name: Module 7 CI
 on:
   pull_request:
     branches:
-      - Module_7
+      - main
 
 jobs:
   test:
